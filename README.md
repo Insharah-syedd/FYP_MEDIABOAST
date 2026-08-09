@@ -1,11 +1,11 @@
-# MediaBoost
+# MediaBoost 🔗 **Live Demo:** [mediaboost.infinityfreeapp.com/public](http://mediaboost.infinityfreeapp.com/public)
 
 **A Web-Based Client Management & Digital Marketing Dashboard**
 
 MediaBoost is a centralized platform built for **All Media Marketing**, a digital marketing agency based in Lahore, Pakistan. It replaces manual, WhatsApp-based client communication and reporting with a single, role-based system that manages leads, clients, projects, and campaign analytics — all in one place.
 
 > 🎓 Final Year Project — BSIT, Lincoln University Malaysia
-
+ 
 ---
 
 ## 📌 Problem It Solves
