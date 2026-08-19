@@ -72,16 +72,6 @@ See `mediaboost.sql` for the full schema and demo data.
 
 ---
 
-## 🌍 Deployment (Live Hosting)
-
-1. Upload the project files to your hosting account's public folder (File Manager or FTP)
-2. Create a MySQL database and user through your hosting control panel
-3. Import `mediaboost.sql` via phpMyAdmin
-4. Update the database config file with your live database credentials
-5. Visit your domain to confirm the system is running
-
----
-
 ## 🔑 Default Access
 
 After importing the database, three pre-configured team accounts exist under the `allmediamarketing.com` domain — **Admin**, **Manager**, and **Employee**. Passwords should be reset immediately after deployment, before using real client data.
